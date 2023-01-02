@@ -13,7 +13,7 @@ const Home = () => {
                     <img src={LogoTitle} alt="developer" />
                     acinth
                     <br/>
-                    web developer
+                    Web Developer
                 </h1>
 
                 <h2>
